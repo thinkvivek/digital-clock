@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #599cff;
+}
+
+#digiclock {
+    height: 250px;
+    width: 750px;
+    margin: auto;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    font-family: dosis;
+    text-align: center;
+    font-size: 150px
+}
