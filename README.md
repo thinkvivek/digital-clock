@@ -1,3 +1,3 @@
-# digital-clock
+# Digital Clock
 
 ![Digital Clock](./DigitalClock.JPG)
